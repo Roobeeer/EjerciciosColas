@@ -1,2 +1,6 @@
-package ApuntesClase.EjerciciosColas;public class Ejercicio2 {
+package ApuntesClase.EjerciciosColas;
+
+public class Ejercicio2 {
+
 }
+
